@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 asslololo fan ta dae
 
-=======
-lololo
->>>>>>> parent of e0779d0... changed code in both
